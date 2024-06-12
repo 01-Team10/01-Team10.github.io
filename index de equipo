@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+    <!--En la cabecera podemos poner informacion relevante para el navegador.-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Document</title>
+</head>
+
+<body>
+    <!--En el Body tenemos lo que se va a ver en la ventana del navegador.-->
+    <center>
+    <h1>TEAM 10</h1>
+    <P>TIADSM 03</P>
+    <P>Aplicaciones web</P>
+    <p>
+        Jesus Reyna Silva 22590 Github: <a href="https://github.com/JesusReynaSilva">JesusReynaSilva</a>
+        <br>
+        Erick Solis Sanchez 22596 Github: <a href="https://github.com/Solis-San">Solis-san</a>
+    </p>
+</center>
+</body>
+</html>
