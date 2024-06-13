@@ -4,7 +4,7 @@
     <!--En la cabecera podemos poner informacion relevante para el navegador.-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <link rel="stylesheet" href="form.html">
+    <link rel="stylesheet" href="forms.html">
     <title>Document</title>
 </head>
 
@@ -20,7 +20,7 @@
         Erick Solis Sanchez 22596 Github: <a href="https://github.com/Solis-San">Solis-san</a>
     </p>
 </center>
-<a href="form.html">Acceso a Formulario</a>
+<a href="forms.html">Acceso a Formulario</a>
 </body>
 </html>
     
