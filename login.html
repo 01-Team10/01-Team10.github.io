@@ -1,33 +1,32 @@
-<!DOCTYPE html>
-<html lang="es">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Login</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
-  <div class="formulario">
-    <h1>Inicio de sesion</h1>
-    <form method="post">
-      <div class="username">
-        <input type="text" class="form-control" id="user" name="user" pattern="[0-9]+">
-        <label>Username</label>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login</title>
+  </head>
+  <body>
+      <div class="row justify-content-center">
+    <div class="col-md-4">
+      <div class="card" >
+        <div class="card-body">
+          <form>
+            <div class="mb-3">
+              <label for="user" class="form-label">User</label>
+              <input type="text" class="form-control" id="user"  name="user" pattern="[0-9]+">
+            </div>
+            <div class="mb-3">
+              <label for="exampleInputPassword1" class="form-label">Password</label>
+              <input type="password" class="form-control" id="exampleInputPassword1">
+            </div>
+            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+              <button class="btn btn-primary me-md-2" type="submit">Login</button>
+              <button class="btn btn-warning" type="button">Forgot?</button>
+            </div>
+          </form>
+        </div>
       </div>
-      <div class="contrasena">
-        <input type="password">
-        <label>Password</label>
-      </div>
-      <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-        <button type="submit" class="btn btn-primary">Login</button>
-        <button type="button" class="btn btn-warning">Forgot?</button>
-      </div>
-    </form>
-
+    </div>
   </div>
-
-</body>
-
+  </body>
 </html>
