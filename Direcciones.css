@@ -17,17 +17,17 @@ body {
 }
 div {
     background-color: white;
-    width: 300px;
+    width: 100px;
     text-align: center;
 }
 
 div img {
-    width: 100px;
-    margin-top: 60px;
+    width: 180px;
+    margin-top: 10px;
 }
 
 section {
     display: flex;
     justify-content:center;
-    column-gap: 200px;
+    column-gap: 70px;
 }
