@@ -22,12 +22,12 @@ div {
 }
 
 div img {
-    width: 180px;
+    width: 100px;
     margin-top: 10px;
 }
 
 section {
     display: flex;
     justify-content:center;
-    column-gap: 100px;
+    column-gap: 180px;
 }
