@@ -17,7 +17,7 @@ body {
 }
 div {
     background-color: white;
-    width: 180px;
+    width: 200px;
     text-align: center;
 }
 
@@ -29,5 +29,5 @@ div img {
 section {
     display: flex;
     justify-content:center;
-    column-gap: 180px;
+    column-gap: 200px;
 }
