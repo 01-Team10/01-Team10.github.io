@@ -17,7 +17,7 @@ body {
 }
 div {
     background-color: white;
-    width: 150px;
+    width: 100px;
     text-align: center;
 }
 
@@ -29,7 +29,7 @@ div img {
 section {
     display: flex;
     justify-content:center;
-    column-gap: 80px;
+    column-gap: 70px;
 }
 
 .button {
