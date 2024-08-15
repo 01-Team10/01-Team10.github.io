@@ -22,7 +22,7 @@ div {
 }
 
 div img {
-    width: 70px;
+    width: 90px;
     margin-top: 100px;
 }
 
@@ -30,4 +30,27 @@ section {
     display: flex;
     justify-content:center;
     column-gap: 75px;
+}
+
+.button {
+text-decoration: none;
+display: inline-block;
+width: 40%;
+padding: 10px;
+border: 2px solid blue;
+border-radius: 40px;
+text-decoration: none;
+color: white;
+font-weight:bold;
+transition: all 0.8s;
+text-align: center;
+font-size: 20px;
+}
+
+
+.button hover{
+
+background: blue;
+color: white;
+
 }
